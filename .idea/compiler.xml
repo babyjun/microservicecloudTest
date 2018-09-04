@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloudTest-api" />
+        <module name="microservicecloudTest-config-3344" />
+        <module name="microservicecloudTest-config-dept-client-8001" />
+        <module name="microservicecloudTest-config-eureka-client-7001" />
+        <module name="microservicecloudTest-consumer-dept-80" />
+        <module name="microservicecloudTest-consumer-dept-feign" />
+        <module name="microservicecloudTest-consumer-hystrix-dashboard" />
+        <module name="microservicecloudTest-eureka-7001" />
+        <module name="microservicecloudTest-eureka-7002" />
+        <module name="microservicecloudTest-eureka-7003" />
+        <module name="microservicecloudTest-provider-dept-8001" />
+        <module name="microservicecloudTest-provider-dept-8002" />
+        <module name="microservicecloudTest-provider-dept-8003" />
+        <module name="microservicecloudTest-provider-dept-hystrix" />
+        <module name="microservicecloudTest-zuul-gateway-9527" />
+        <module name="mircoservicecloudTest-config-client-3355" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

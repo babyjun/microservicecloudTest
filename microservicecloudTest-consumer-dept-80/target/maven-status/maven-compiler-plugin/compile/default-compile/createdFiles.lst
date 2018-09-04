@@ -1,0 +1,5 @@
+com\qjm\DeptConsumer80_App.class
+com\qjm\cfgbean\ConfigBean.class
+com\qjm\myrule\MyselfRule.class
+com\qjm\controller\DeptController_Consumer.class
+com\qjm\myrule\RandomRule_5.class

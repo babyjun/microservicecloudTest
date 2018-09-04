@@ -1,0 +1,4 @@
+com\qjm\pojo\Dept.class
+com\qjm\service\DeptClientServiceFallbackFactory.class
+com\qjm\service\DeptClientService.class
+com\qjm\service\DeptClientServiceFallbackFactory$1.class
